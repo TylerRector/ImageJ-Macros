@@ -6,3 +6,4 @@ Enhances and detects cell boundaries using multiscale Hessian ridge filtering.
 
 <img width="240" height="240" alt="Colonies_of_Madin-Darby_Canine_Kidney_cells_grown_in_tissue_culture_2" src="[https://github.com/user-attachments/assets/ae3611b2-f04e-467c-a199-95b2d9d7b89b]" />
 
+![Cell_Border_Contrasst copy](https://github.com/user-attachments/assets/ddef34df-2a75-4c9c-8b46-5e112b08b47f)
